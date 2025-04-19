@@ -1,0 +1,13 @@
+student_id,student_name,subject,grade
+1,Alice,Math,85.50
+1,Alice,Science,92.00
+1,Alice,English,88.00
+2,Bob,Math,90.00
+2,Bob,Science,78.50
+2,Bob,English,85.00
+3,Charlie,Math,75.00
+3,Charlie,Science,80.00
+3,Charlie,English,95.00
+4,David,Math,85.50
+4,David,Science,88.00
+4,David,English,82.00
